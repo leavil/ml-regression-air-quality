@@ -54,12 +54,6 @@ code rlm_td_quality_air.ipynb
 - seaborn
 - scikit-learn
 
-## Notas para entrega en GitHub
-
-- Asegúrate de que el `data/AirQualityUCI.csv` no viole políticas de datos (es dataset público de UCI).
-- Revisa el código final en `rlm_td_quality_air.ipynb` y añade comentarios si quieres mejorar trazabilidad.
-- Incluye un markdown breve con conclusión (ya presente en el notebook).
-
 ---
 
 ## Autor
